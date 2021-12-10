@@ -22,8 +22,8 @@ This took 105.9s Although it could be faster with different parameters input.
 
 Fittest Trayectory of the last generation.
 
-![This is an image](48Trajectory.png)
+![This is an image](sample/48Trajectory.png)
 
 Convergence of traveled distance.
 
-![This is an image](48Convergence.png)
+![This is an image](sample/48Convergence.png)
