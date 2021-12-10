@@ -20,7 +20,7 @@ An approach for an optimal solution of the Traveling Salesman Problem (TSP)
 
 This took 105.9s Although it could be faster with different parameters input. 
 
-Trayectory.
+Fittest Trayectory of the last generation.
 
 ![This is an image](48Trajectory.png)
 
